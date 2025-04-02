@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a Data Science student and web developer, pass
 - **Technologies:** Python, Django, Vue.js, SQLite
 - **Status:** In Production
 
-### [EasyStudy ](https://jatmanis1.software)
+### [EasyNotes ](https://jatmanis1.software)
 - **Description:** A study management platform designed to help students organize their learning.
 - **Technologies:** Python, Django, PostgreSQL, Redis
 - **Status:** In Production
