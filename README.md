@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a Data Science student and web developer, pass
 
 ## 💻 Projects
 
-### [EasyHome](https://jatmanis1.online/software)
+### [EasyHome](https://easyhome-mj.vercel.app/)
 - **Description:** A home service application with multiple user roles (Academic Project).
 - **Technologies:** Python, Django, Vue.js, SQLite
 - **Status:** In Production
