@@ -20,15 +20,15 @@ Welcome to my GitHub profile! I'm a Data Science student and web developer, pass
 
 ## 💻 Projects
 
-### [EasyHome](https://github.com/jatmanis11/EasyHome)
+### [EasyHome](https://jatmanis1.online/software)
 - **Description:** A home service application with multiple user roles (Academic Project).
 - **Technologies:** Python, Django, Vue.js, SQLite
-- **Status:** In Progress
+- **Status:** In Production
 
-### [EasyStudy](https://github.com/jatmanis11/EasyStudy)
+### [EasyStudy ](https://jatmanis1.software)
 - **Description:** A study management platform designed to help students organize their learning.
 - **Technologies:** Python, Django, PostgreSQL, Redis
-- **Status:** In Progress
+- **Status:** In Production
 
 ## 📈 GitHub Stats
 
